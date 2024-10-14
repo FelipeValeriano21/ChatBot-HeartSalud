@@ -22,14 +22,17 @@ Chatbot **HeartSalud** is a project developed by **Felipe Valeriano** that uses 
 
 Chatbot HeartSalud requires Python 3.8+ to run.
 
-### Clone the repository:
 
-```sh
-git clone https://github.com/yourusername/chatbot-heartsalud.git
-
+### Running:
 
 ![image](https://github.com/user-attachments/assets/54c1110c-ce55-47a7-8790-daee99fe4b44)
 
 ![image](https://github.com/user-attachments/assets/1610b6b5-7f28-4e9d-a8c3-ef325fe9f9dc)
 
 ![image](https://github.com/user-attachments/assets/57c66f84-6f97-47e9-9563-c6ea084fd057)
+
+### Clone the repository:
+
+```sh
+git clone https://github.com/yourusername/chatbot-heartsalud.git 
+
